@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) but it doesnt matter.
+
+A really important things are right here!
+
+CLOUDFRONT [LINK](https://d3ieo6hiy3v3bz.cloudfront.net)
+S3 BUCKET WITH 403 [LINK](http://nkk-s14-bucket.s3-website-eu-west-1.amazonaws.com)
+
+That`s all, you dont need to scroll down more
 
 ## Available Scripts
 
