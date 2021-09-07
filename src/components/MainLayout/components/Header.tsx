@@ -46,7 +46,7 @@ export default function Header() {
     <AppBar position="relative">
       <Toolbar>
         <Typography variant="h6" className={classes.title}>
-          <Link className={classes.homeLink} to="/">Lauka Speed Stars Store you know!</Link>
+          <Link className={classes.homeLink} to="/">Lauka Speed Stars Stickers Store you know!</Link>
         </Typography>
 
         {auth && (
